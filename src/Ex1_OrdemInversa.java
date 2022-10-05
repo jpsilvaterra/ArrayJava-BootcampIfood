@@ -22,5 +22,5 @@ public class Ex1_OrdemInversa {
         for(int i = (vetor.lenght - 1); i >= 0; i --){ //-1 pq o lenght conta o 0 tbm
             System.out.print(vetor[i] + " ");
         }
-    }
+    } //05/10/2022
 }
