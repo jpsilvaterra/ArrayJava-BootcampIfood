@@ -38,6 +38,6 @@ public class Ex2_Consoantes {
         }
 
         System.out.println("Quantidade de consoantes: " + quantidadeConsoantes);
-        System.out.println(consoantes.lenght);
+        System.out.println(consoantes.lenght); //05/10/2022
     }
 }
